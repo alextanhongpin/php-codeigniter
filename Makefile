@@ -1,0 +1,2 @@
+start:
+	@php spark serve
